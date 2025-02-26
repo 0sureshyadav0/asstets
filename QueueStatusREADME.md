@@ -17,6 +17,19 @@ Queue Status App is a Flutter application that allows users to check the real-ti
 - 📌 **QR Code Generator** - Using `QrImageView` for generating QR codes.
 - 🏗️ **Dart** - Primary programming language.
 
+## 📱 Screenshots
+
+### Preview
+
+<center>
+<div style="display:flex;gap:20px;">
+<img src="https://github.com/0sureshyadav0/assets/blob/master/assets/images/img1.png?raw=true" height = "30%" width="30%">
+<img src="https://github.com/0sureshyadav0/assets/blob/master/assets/images/img2.png?raw=true" height = "30%" width="30%">
+<img src="https://github.com/0sureshyadav0/assets/blob/master/assets/images/img3.png?raw=true" height = "30%" width="30%">
+</div>
+
+</center>
+
 ## 📥 Installation
 
 1. Clone the repository:

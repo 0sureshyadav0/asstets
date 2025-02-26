@@ -23,9 +23,9 @@ Queue Status App is a Flutter application that allows users to check the real-ti
 
 <center>
 <div style="display:flex;gap:20px;">
-<img src="https://github.com/0sureshyadav0/asstets/blob/master/img1.png?raw=true" height = "30%" width="30%">
-<img src="https://github.com/0sureshyadav0/asstets/blob/master/img2.png?raw=true" height = "30%" width="30%">
-<img src="https://github.com/0sureshyadav0/asstets/blob/master/img3.png?raw=true" height = "30%" width="30%">
+<img src="https://github.com/0sureshyadav0/asstets/blob/main/img1.png?raw=true" height = "30%" width="30%">
+<img src="https://github.com/0sureshyadav0/asstets/blob/main/img2.png?raw=true" height = "30%" width="30%">
+<img src="https://github.com/0sureshyadav0/asstets/blob/main/img3.png?raw=true" height = "30%" width="30%">
 </div>
 
 </center>

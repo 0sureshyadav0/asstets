@@ -1,6 +1,6 @@
-# 🚀 Queue Status App
+# 🚀 PaaloX App
 
-Queue Status App is a Flutter application that allows users to check the real-time queue status of stores such as hospitals, barber salons, and other service providers. The app features a map-based UI to display store details and queue information without requiring authentication.
+PaaloX App is a Flutter application that allows users to check the real-time queue status of stores such as hospitals, barber salons, and other service providers. The app features a map-based UI to display store details and queue information without requiring authentication.
 
 ## ✨ Features
 

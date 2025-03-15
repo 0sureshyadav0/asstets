@@ -1,13 +1,13 @@
-# Mero Cinema
+# मेरो सिनेमा
 
-Mero Cinema is a Flutter-based movie streaming app that allows users to browse, search, and watch Nepali movies. It supports authentication, favorite movie selection, and multiple payment methods including Khalti, eSewa, Stripe, and PayPal.
+मेरो सिनेमा is a Flutter-based movie streaming app that allows users to browse, search, and watch Nepali movies. It supports authentication, favorite movie selection.
 
 ## Features
 
 - **Movie Listing**: Browse and search for movies.
 - **Movie Filtering**: Filter movies based on categories.
 - **Movie Player**: Watch movies via YouTube Player.
-- **Authentication**: Supports Google Sign-In and Twilio WhatsApp authentication.
+- **Authentication**: Supports Google Sign-In.
 - **Favorites**: Mark movies as favorites.
 ## 📱 Screenshots
 
@@ -48,12 +48,12 @@ Mero Cinema is a Flutter-based movie streaming app that allows users to browse, 
 Ensure you have the following Firebase services enabled:
 
 - Firestore Database
-- Authentication (Google & WhatsApp)
+- Authentication (Google)
 - Firebase Storage
 
 ## Usage
 
-- Sign in using Google or WhatsApp authentication.
+- Sign in using Google authentication.
 - Browse and search for movies.
 - Filter movies by category.
 - Mark movies as favorites.
@@ -82,4 +82,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries or issues, contact us at `sureshyadav.info.np@gmail.com`.
+For any inquiries or issues, contact us at [sureshyadav.info.np@gmail.com](mailto:sureshyadav.info.np@gmail.com).
